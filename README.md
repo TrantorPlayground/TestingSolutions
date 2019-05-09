@@ -1,4 +1,4 @@
-Setup config.properties file
+config.properties file
 1. We have all the parameters defined in this file, we can add values of thesse parameters as per requirements
 2. To change the sender email, update sender's email id and run encryptPassword window batch file
 3. Input password in encryptpassword batch file, it will automatically update "senderEmailPassword" parameter in encrypted format in config.properties file
